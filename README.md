@@ -53,5 +53,5 @@ Welcome to my GitHub! I am a software developer focused on engineering high-perf
 ```bash
 $ sayak --status
 > Logs: Building high-impact software & tracking rough terrain.
-> Route: [Kolkata] ⇄ [Bhubaneswar] ⇄ [On the road]
+> Route: [Siliguri] ⇄ [Bhubaneswar] ⇄ [On the road]
 > Hardware: Camera primed, production server stabilized.
