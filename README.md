@@ -51,6 +51,6 @@ Welcome to my GitHub! I am a software developer with a strong focus on building 
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=koder-kratos&icon=0&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=sayakbhattasali&icon=0&color=0" />
   </a>
 </div>
