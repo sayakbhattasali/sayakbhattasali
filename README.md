@@ -1,15 +1,15 @@
 # Hi there, I'm Sayak 👋
 ### ⚡ Full Stack Web & Mobile Developer | Photographer | Explorer
 
-Welcome to my GitHub! I am a software developer with a strong focus on building responsive web applications, interactive dashboards, and clean digital experiences. When I'm not configuring backend architectures or styling frontends, I'm capturing perspectives through a lens or exploring new destinations.
+Welcome to my GitHub! I am a software developer focused on engineering high-performance web applications, clean user interfaces, and robust backend systems. When I'm not configuring API architectures or refactoring code, I'm out shooting high-contrast landscapes or navigating new coordinates.
 
 ## 💫 About Me
 - 🎓 Computer Science & Software Engineering student at KIIT University.
-- 🌐 **Web Development:** Designing and deploying modern web applications and responsive user interfaces from scratch.
-- 🤖 **Data & Backend Integration:** Building scalable APIs with **FastAPI** and **Node.js**, and spinning up interactive data websites using **Streamlit**.
-- 📱 **Mobile Exploration:** Developing functional Android applications using Java and Android Studio.
-- 📸 **Photography:** Focused on visual storytelling, framing perspectives, and capturing the right exposure—both in-camera and in code.
-- 🌍 **Traveling:** Navigating new terrains, exploring regional landscapes, and finding inspiration on the move.
+- 🌐 **Web Development:** Architecting responsive web setups and modern user interfaces from the ground up.
+- 🤖 **Data & Backend Integration:** Engineering high-speed APIs with **FastAPI** and **Node.js**, and building interactive data platforms via **Streamlit**.
+- 📱 **Mobile Infrastructure:** Developing native Android implementations using Java and Android Studio.
+- 📸 **Photography:** Focused on raw composition, framing perspectives, and dialing in the exact shutter and exposure.
+- 🌍 **Traveling:** Mapping routes, hitting the road, and exploring regional landscapes.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayak-bhattasali-5345542a7) 
@@ -49,8 +49,9 @@ Welcome to my GitHub! I am a software developer with a strong focus on building 
 
 ---
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sayakbhattasali&icon=0&color=0" />
-  </a>
-</div>
+## 🛠️ Terminal Status
+```bash
+$ sayak --status
+> Logs: Building high-impact software & tracking rough terrain.
+> Route: [Kolkata] ⇄ [Bhubaneswar] ⇄ [On the road]
+> Hardware: Camera primed, production server stabilized.
