@@ -1,14 +1,15 @@
 # Hi there, I'm Sayak 👋
-### ⚡ Full Stack & Android Developer | Photographer | Tech Enthusiast
+### ⚡ Full Stack & Android Developer | Photographer | Explorer
 
-Welcome to my GitHub! I'm a developer who enjoys building everything from mobile apps to data-driven web tools. When I'm not writing code, I'm usually managing my business or exploring the latest in tech and pop culture.
+Welcome to my GitHub! I'm a developer who enjoys building everything from mobile apps to data-driven web tools. When I'm not writing code, I'm usually behind a camera lens or planning my next trip.
 
 ## 💫 About Me
 - 🎓 Currently pursuing my **BTech in CSSE** at KIIT University.
-- 📱 **Mobile & Full Stack:** Developing Android applications (like *Just Got Smoked* and local utility apps like a campus restaurant finder) using Android Studio.
+- 📱 **Mobile & Full Stack:** Developing Android applications (like *Just Got Smoked* and local campus utility apps) using Android Studio.
 - 🤖 **AI & Backend:** Building with **FastAPI, Streamlit**, and integrating LLMs like the **Gemini API** and **Groq**. 
-- 💼 **Entrepreneurship:** Running a decorative brass lighting enterprise on the side. 
-- 📈 **Interests:** Passionate about personal finance and investing (SIPs/Mutual Funds). 
+- 📸 **Photography:** Chasing the perfect light and composition when I'm not chasing down syntax errors.
+- 🌍 **Travelling:** Exploring new destinations and coordinates in the real world, not just in the DOM.
+- 📈 **Finance:** Passionate about personal finance and smart investing (SIPs/Mutual Funds). 
 - 🎮 **Downtime:** Gaming on Steam/BGMI, reading DC Comics, or catching up on *The Boys*, *Invincible*, or *Baki*.
 
 ## 🌐 Connect with Me
@@ -31,7 +32,7 @@ Welcome to my GitHub! I'm a developer who enjoys building everything from mobile
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
-**Frontend, Mobile & Data apps**
+**Frontend, Mobile & Data Apps**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
