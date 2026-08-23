@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a software developer focused on engineering high-perf
 - 🎓 Computer Science & Software Engineering student at KIIT University.
 - 🌐 **Web Development:** Architecting responsive web setups and modern user interfaces from the ground up.
 - 🤖 **Data & Backend Integration:** Engineering high-speed APIs with **FastAPI** and **Node.js**, and building interactive data platforms via **Streamlit**.
-- 📱 **Mobile Infrastructure:** Developing native Android implementations using Java and Android Studio.
+- 📱 **Mobile Infrastructure:** Developing native Android implementations using Kotlin and Android Studio.
 - 📸 **Photography:** Focused on raw composition, framing perspectives, and dialing in the exact shutter and exposure.
 - 🌍 **Traveling:** Mapping routes, hitting the road, and exploring regional landscapes.
 
