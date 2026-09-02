@@ -7,10 +7,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/sayak-bhattasali-5345542a7"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/_sayak_b_"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:sayakbhattasali8@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sayak-Bhattasali&color=58a6ff&label_color=0d1117&style=flat-square&label=VIEWS" alt="Profile Views" />
+  <a href="https://linkedin.com/in/sayak-bhattasali-5345542a7"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_sayak_b_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:sayakbhattasali8@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sayak-Bhattasali&color=blue&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -20,32 +20,38 @@
 - **Academics:** Computer Science & Systems Engineering, KIIT University.
 - **Systems:** Responsive user interfaces, high-speed REST APIs via **FastAPI** & **Node.js**, and modern state management.
 - **Field:** Calibrating manual shutter/exposure curves across high-contrast environments and logging regional terrain.
+
 ---
 
 ### `02 // STACK & INFRASTRUCTURE`
 
 **Languages**  
-<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+
+<br/>
 
 **Web & Mobile Engines**  
-<img src="https://img.shields.io/badge/Android_Studio-161b22?style=flat-square&logo=android-studio&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/TailwindCSS-161b22?style=flat-square&logo=tailwind-css&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-**Databases & Compute**  
-<img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikit-learn&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=c9d1d9" />
+<br/>
+
+**Databases, Compute & Cloud**  
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-%23FFA611.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 
 ---
 
