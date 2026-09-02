@@ -2,13 +2,11 @@ import os
 import numpy as np
 from PIL import Image, ImageOps, ImageEnhance, ImageFilter
 
-# Ramp starts immediately with fine detail characters instead of empty voids
 RAMP = ".:-~=+*#%@"
 
-def generate_portrait(image_path, output_path, target_width=130):
+def generate_portrait(image_path, output_path, target_width=115):
     img = Image.open(image_path).convert("RGBA")
     
-    # Monospace font ratio correction (~0.52)
     aspect_ratio = img.height / img.width
     target_height = int(target_width * aspect_ratio * 0.52)
     img = img.resize((target_width, target_height), Image.Resampling.LANCZOS)
@@ -16,14 +14,12 @@ def generate_portrait(image_path, output_path, target_width=130):
     r, g, b, alpha = img.split()
     alpha_arr = np.array(alpha)
     
-    # Grayscale & local contrast
     base_gray = Image.merge("RGB", (r, g, b)).convert("L")
     base_gray = ImageOps.autocontrast(base_gray, cutoff=(2, 2))
     enhanced = ImageEnhance.Sharpness(base_gray).enhance(2.0)
     enhanced = ImageEnhance.Contrast(enhanced).enhance(1.6)
     gray_arr = np.array(enhanced)
     
-    # Edge map for glasses frames and facial borders
     edge_map = np.array(enhanced.filter(ImageFilter.FIND_EDGES))
     
     lines = []
@@ -32,7 +28,6 @@ def generate_portrait(image_path, output_path, target_width=130):
     for y in range(target_height):
         line = ""
         for x in range(target_width):
-            # 1. Background cutout (transparent or edge black) = true blank space
             if alpha_arr[y, x] < 15 or gray_arr[y, x] < 10:
                 line += " "
                 continue
@@ -40,14 +35,11 @@ def generate_portrait(image_path, output_path, target_width=130):
             lum = gray_arr[y, x]
             edge = edge_map[y, x]
             
-            # 2. Glasses frames & sharp borders
             if edge > 75:
                 char = "#"
-            # 3. Dark facial details (eyes, pupils, eyebrows) get distinct texture instead of hollow gaps
             elif lum < 45:
                 char = "." if y % 2 == 0 else ":"
             else:
-                # 4. Lit facial tones
                 idx = int((lum / 255.0) * ramp_len)
                 char = RAMP[idx]
                 
@@ -56,10 +48,9 @@ def generate_portrait(image_path, output_path, target_width=130):
 
     char_width = 6.2
     line_height = 9.2
-    svg_width = int(target_width * char_width + 40)
-    svg_height = int(target_height * line_height + 40)
+    svg_width = int(target_width * char_width)
+    svg_height = int(target_height * line_height + 30)
 
-    # Increased total sweep time for a slower, methodical draw
     total_duration = 3.5
     line_delay_step = total_duration / max(target_height, 1)
 
@@ -72,13 +63,13 @@ def generate_portrait(image_path, output_path, target_width=130):
         '      font-weight: bold;',
         '      fill: #58a6ff;',
         '      white-space: pre;',
+        '      text-anchor: middle;',
         '    }',
         '  </style>',
         '  <rect width="100%" height="100%" fill="#0d1117" rx="8" />',
         '  <defs>'
     ]
 
-    # Staggered clipping masks with slower per-line typewriter speed
     for i in range(target_height):
         delay = round(i * line_delay_step, 3)
         svg.append(
@@ -91,12 +82,12 @@ def generate_portrait(image_path, output_path, target_width=130):
 
     svg.append('  </defs>')
 
-    y_pos = 25
+    y_pos = 20
     for i, line in enumerate(lines):
         escaped = line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         svg.append(
             f'  <g clip-path="url(#wipe-{i})">'
-            f'    <text x="20" y="{y_pos}">{escaped}</text>'
+            f'    <text x="50%" y="{y_pos}">{escaped}</text>'
             f'  </g>'
         )
         y_pos += line_height
@@ -115,5 +106,5 @@ if __name__ == "__main__":
     if not os.path.exists(input_file):
         print(f"❌ Cannot find: {input_file}")
     else:
-        generate_portrait(input_file, output_file, target_width=130)
-        print(f"✓ Successfully generated: {output_file}")
+        generate_portrait(input_file, output_file, target_width=115)
+        print(f"✓ Generated centered: {output_file}")

@@ -1,27 +1,55 @@
 <div align="center">
-  <img src="./assets/ascii.svg" alt="Sayak Bhattasali" width="650"/>
+  <img src="./assets/ascii.svg" alt="Sayak Bhattasali" width="450"/>
   <br/>
-  <img src="./assets/stats.svg" alt="Activity & Stats" width="650"/>
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/sayak-bhattasali-5345542a7">linkedin</a> • 
-  <a href="https://instagram.com/_sayak_b_">instagram</a> • 
-  <a href="mailto:sayakbhattasali8@gmail.com">email</a>
+  <img src="./assets/stats.svg" alt="Activity & Stats" width="600"/>
 </div>
 
 <br/>
 
-**about**
-- Computer Science & Software Engineering student at KIIT University.
-- Architecting responsive web setups and engineering high-speed APIs with FastAPI, Node.js, and Express.
-- Building native Android implementations with Kotlin and data platforms via Streamlit.
-- When off-screen: hitting regional routes, dialing in manual shutter/exposure, and exploring terrain.
+<div align="center">
+  <a href="https://linkedin.com/in/sayak-bhattasali-5345542a7"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" /></a>
+  <a href="https://instagram.com/_sayak_b_"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=58a6ff" /></a>
+  <a href="mailto:sayakbhattasali8@gmail.com"><img src="https://img.shields.io/badge/DIRECT-sayakbhattasali8@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" /></a>
+</div>
 
-**stack**
-`python` `typescript` `java` `c++` `react` `fastapi` `node.js` `express` `streamlit` `kotlin` `android studio` `pandas` `numpy` `scikit-learn` `tailwind` `mysql` `mongodb` `vercel`
+<br/>
 
-**status**
+### `01 // PROFILE`
+- **Focus:** Systems engineering, high-throughput backend APIs, and native mobile infrastructure.
+- **Academics:** Computer Science & Software Engineering, KIIT University.
+- **Engineering:** Production setups using **FastAPI**, **Node.js**, **Express**, and **Kotlin** (Jetpack Compose).
+- **Offline:** Dialing in exposure/shutter mechanics across high-contrast environments and tracing regional routes.
+
+---
+
+### `02 // STACK & INFRASTRUCTURE`
+
+**Languages**  
+<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=c%2B%2B&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=c9d1d9" />
+
+**Web & Mobile Frameworks**  
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Android_Studio-161b22?style=flat-square&logo=android-studio&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/TailwindCSS-161b22?style=flat-square&logo=tailwind-css&logoColor=58a6ff" />
+
+**Data Systems & Deployment**  
+<img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikit-learn&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=c9d1d9" />
+
+---
+
+### `03 // TELEMETRY`
 ```bash
 $ sayak --status
 > Logs: Building high-impact software & tracking rough terrain.
