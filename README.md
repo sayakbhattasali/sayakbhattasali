@@ -2,7 +2,7 @@
   <img src="./assets/ascii.svg" alt="Sayak Bhattasali" width="450"/>
   <br/>
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=SAYAK+BHATTASALI" alt="Sayak Bhattasali" />
+    <samp style="color: #58a6ff; font-weight: 700; letter-spacing: 2px;">SAYAK BHATTASALI</samp>
   </h1>
   <img src="./assets/stats.svg" alt="Activity & Stats" width="600"/>
 </div>
