@@ -15,11 +15,10 @@
 <br/>
 
 ### `01 // PROFILE`
-- **Focus:** Engineering low-latency distributed web backends and crafting hardware-accelerated Android runtimes (Kotlin / Jetpack Compose).
-- **Academics:** Computer Science & Software Engineering, KIIT University.
-- **Systems:** High-throughput REST architectures via **FastAPI** & **Node.js**, declarative UI trees, and cross-platform state sync.
+- **Focus:** Full stack web development and Kotlin Android development.
+- **Academics:** Computer Science & Systems Engineering, KIIT University.
+- **Systems:** Responsive user interfaces, high-speed REST APIs via **FastAPI** & **Node.js**, and modern state management.
 - **Field:** Calibrating manual shutter/exposure curves across high-contrast environments and logging regional terrain.
-
 ---
 
 ### `02 // STACK & INFRASTRUCTURE`
@@ -57,4 +56,4 @@ SYS_DIAGNOSTICS: INITIALIZED
 ├── COMPILE_ENV : KOTLIN / FASTAPI / PYTHON3.11 / TYPESCRIPT
 ├── PAYLOAD     : FULL-STACK APPS // NATIVE ANDROID BUILDS
 └── PERIPHERALS : [OPTICS: 35MM PRIMED] [THROTTLE: WIDE OPEN]
-```
+```
