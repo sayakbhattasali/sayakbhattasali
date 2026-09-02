@@ -26,7 +26,7 @@
 **Languages**  
 <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=c9d1d9" />
 <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9" />
-<img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=c%2B%2B&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=c9d1d9" />
 <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=c9d1d9" />
 
 **Web & Mobile Engines**  
