@@ -10,6 +10,7 @@
   <a href="https://linkedin.com/in/sayak-bhattasali-5345542a7"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/_sayak_b_"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:sayakbhattasali8@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sayak-Bhattasali&color=58a6ff&base=0d1117&style=flat-square&label=VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -56,4 +57,3 @@ SYS_DIAGNOSTICS: INITIALIZED
 ├── COMPILE_ENV : KOTLIN / FASTAPI / PYTHON3.11 / TYPESCRIPT
 ├── PAYLOAD     : FULL-STACK APPS // NATIVE ANDROID BUILDS
 └── PERIPHERALS : [OPTICS: 35MM PRIMED] [THROTTLE: WIDE OPEN]
-```
