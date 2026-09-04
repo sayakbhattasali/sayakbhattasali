@@ -39,7 +39,9 @@
 
 **Web & Mobile Engines**  
 <img src="https://img.shields.io/badge/Android_Studio-161b22?style=flat-square&logo=android-studio&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=58a6ff" />
 <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Fastify-161b22?style=flat-square&logo=fastify&logoColor=58a6ff" />
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=58a6ff" />
 <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=58a6ff" />
 <img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=58a6ff" />
@@ -49,7 +51,10 @@
 <br/>
 
 **Databases, Compute & Cloud**  
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/pgvector-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9" />
 <img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=c9d1d9" />
 <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=c9d1d9" />
 <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=c9d1d9" />
 <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=c9d1d9" />
