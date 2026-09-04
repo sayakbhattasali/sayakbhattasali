@@ -61,6 +61,13 @@
 <img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikit-learn&logoColor=c9d1d9" />
 <img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=c9d1d9" />
 
+<br/>
+
+**Vector Search & Vision**  
+<img src="https://img.shields.io/badge/HNSW_Indexing-161b22?style=flat-square&logo=databricks&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Sharp_Engine-161b22?style=flat-square&logo=node.js&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Oklab_Color_Science-161b22?style=flat-square&logo=affinitydesigner&logoColor=58a6ff" />
+
 ---
 
 ### `03 // TELEMETRY & SYSTEM STATUS`
